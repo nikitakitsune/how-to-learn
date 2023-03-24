@@ -1,0 +1,14 @@
+.foooter__column-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: white;
+}
+
+.foooter__column-link:visited {
+  color: white;
+}

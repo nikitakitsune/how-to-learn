@@ -1,0 +1,12 @@
+.video__iframe {
+  background-color: red;
+  height: 316px;
+  width: 515px;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.video__iframe:first-of-type {
+  margin-right: 20px;
+}
