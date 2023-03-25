@@ -1,4 +1,4 @@
-.foooter__column-link {
+.footer__column-link {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -9,6 +9,6 @@
   color: white;
 }
 
-.foooter__column-link:visited {
+.footer__column-link:visited {
   color: white;
 }
